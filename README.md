@@ -10,7 +10,7 @@
 3. **Καλώδια:** Σύνδεση με το Arduino Uno.
 
 ### 💻 Κώδικας
-Μπορείτε να βρείτε το αρχείο `.ino` [εδώ](./Lesson-1.3-Blink-Hello-World/Blink.ino).
+Μπορείτε να βρείτε το αρχείο `.ino` στον φάκελο src.
 
 ---
 🔗 **Blog:** [uniquetech-robotics.blogspot.com](https://uniquetech-robotics.blogspot.com)
