@@ -10,7 +10,7 @@
 3. **Καλώδια:** Σύνδεση με το Arduino Uno.
 
 ### 💻 Κώδικας
-Μπορείτε να βρείτε το αρχείο `.ino` στον φάκελο src.
+Μπορείτε να βρείτε το αρχείο `.ino` στον φάκελο `/src`.
 
 ---
 🔗 **Blog:** [uniquetech-robotics.blogspot.com](https://uniquetech-robotics.blogspot.com)
